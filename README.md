@@ -10,9 +10,9 @@
 *   `label_encoder.joblib`: The trained Label Encoder object for location features.
 *   `requirements.txt`: A list of all Python dependencies required to run the project.
 
-*   1. `ICT_Exit_Test.ipynb` - is already have all the codes executed and all the plots rendered.
+###**1. `ICT_Exit_Test.ipynb`** - is already have all the codes executed and all the plots rendered.
 
-*   2. Running the Streamlit Web Application (`app.py`)
+###**2. Running the Streamlit Web Application** (`app.py`)
 
 To run the interactive web application for house price prediction, follow these steps:
 
